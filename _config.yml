@@ -1,1 +1,9 @@
+name: pestilence669
+url: http://pestilence669.github.io/
+description: The development blog of Paul Chandler
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
 pygments: true
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

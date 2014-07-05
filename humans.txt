@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Paul Chandler -- Author -- pestilence669
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Markdown, Jekyll, Ruby, GitHub

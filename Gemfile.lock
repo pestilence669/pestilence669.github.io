@@ -11,6 +11,7 @@ GEM
     blankslate (2.1.2.4)
     classifier (1.3.4)
       fast-stemmer (>= 1.0.0)
+    coderay (1.1.0)
     colorator (0.1)
     commander (4.1.6)
       highline (~> 1.6.11)
@@ -64,13 +65,21 @@ GEM
       rb-inotify (>= 0.9)
       rb-kqueue (>= 0.2)
     maruku (0.7.0)
+    metaclass (0.0.4)
+    method_source (0.8.2)
     mini_portile (0.6.0)
     minitest (5.3.5)
+    mocha (1.1.0)
+      metaclass (~> 0.0.1)
     nokogiri (1.6.2.1)
       mini_portile (= 0.6.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.8)
+    pry (0.10.0)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
@@ -82,6 +91,7 @@ GEM
     rdiscount (2.1.7)
     redcarpet (2.3.0)
     safe_yaml (1.0.3)
+    slop (3.5.0)
     thread_safe (0.3.4)
     toml (0.1.1)
       parslet (~> 1.5.0)
@@ -94,3 +104,5 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  mocha
+  pry
