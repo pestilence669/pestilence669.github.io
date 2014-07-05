@@ -5,5 +5,6 @@ description: The development blog of Paul Chandler
 permalink: /:year/:month/:day/:title/
 paginate: 10
 pygments: true
+markdown: kramdown
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
