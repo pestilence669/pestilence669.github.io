@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "After more than two years, the Boost C++ Library project finally merges my patch"
+title:  "Almost two years later, the Boost C++ Library project finally merges my patch"
 date:   2014-07-05 14:57:00
 categories: C++ Boost Opensource KIXEYE "War Commander"
 ---
 
-More than two years ago, I was using [Boost's PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) library as a JSON serializer. It had a bug that included extra whitespace in the output, when disabling the "pretty" option. I submitted a [patch](https://svn.boost.org/trac/boost/ticket/7180).
+Almost two years ago, I was using [Boost's PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) library as a JSON serializer. It had a bug that included extra whitespace in the output, when disabling the "pretty" option. I submitted a [patch](https://svn.boost.org/trac/boost/ticket/7180).
 
 I implemented it locally, to reduce bandwidth for a [game title](https://www.kixeye.com/game/warcommander/home/) I was working on. The bandwidth savings add up, given the frequency of data refresh. It's a simple fix.
 
@@ -25,7 +25,7 @@ diff -dur boost.old/property_tree/detail/json_parser_write.hpp boost.new/propert
          else
 {% endhighlight %}
 
-It was finally merged to master four months ago.
+It was finally merged to master five months ago.
 
 I you work in C++ and haven't tasted the Boost libraries, I'd highly encourage you to do so. Modern C++ doesn't resemble old school C in the slightest. Some of my most favorite libraries in the world have been included in the [C++11 standard](http://en.wikipedia.org/wiki/C%2B%2B11).
 
