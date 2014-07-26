@@ -15,7 +15,7 @@ In combination with PHP's [SPL](http://php.net/manual/en/book.spl.php), you can 
 
 {% highlight php %}
 <?php
-assert(extension_loaded("xrange"));
+assert(extension_loaded('xrange'));
 
 // display all odd numbers 1 .. 20
 print_r(array_values(
