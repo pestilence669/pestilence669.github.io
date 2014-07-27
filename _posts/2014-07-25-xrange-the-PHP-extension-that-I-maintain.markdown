@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "xrange, the PHP extension that I \"maintain\""
-date:   2014-07-25 22:19:00
+date:   2014-07-25 18:19:00
 categories: PHP PECL Opensource
 ---
 

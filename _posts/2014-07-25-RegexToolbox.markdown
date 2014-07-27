@@ -5,7 +5,7 @@ date:   2014-07-25 20:15:00
 categories: Mac OS-X Widget Opensource
 ---
 
-![RegexToolbox](images/RegexToolbox.png)
+![RegexToolbox](/images/RegexToolbox.png)
 
 I wrote a widget a few years back. Apple removed my hosted file storage, so it's become unavailable and I moved it to [GitHub](https://github.com/pestilence669/RegexToolbox). It's always been free, despite the donation link that's earned me $6.00 over several years.
 
