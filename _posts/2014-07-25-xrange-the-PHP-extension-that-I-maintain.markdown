@@ -25,6 +25,6 @@ print_r(array_values(
 ));
 {% endhighlight %}
 
-The real power comes from chaining slicing, appending and filtering iterators together. Creating large batch sets of numbers together without any memory overhead.
+The real power comes from chaining, slicing, appending and filtering iterators together. Creating large batch sets of numbers together without any memory overhead.
 
 Last I heard, it's still a standard package in the [SUSE Linux](https://www.suse.com/) repositories. You can still use it, include the source I published in the article, or adopt the modern generator syntax... which I'm unsure works with SPL natively.
