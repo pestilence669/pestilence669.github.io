@@ -13,6 +13,6 @@ Eventually, I went on to work with [Java](http://en.wikipedia.org/wiki/Java_%28p
 
 These days, I've settled into [Node.js](http://en.wikipedia.org/wiki/Node.js), [MongoDB](http://en.wikipedia.org/wiki/Mongodb) and [JavaScript](http://en.wikipedia.org/wiki/JavaScript)... with a gratuitous amount of C++, Go, [Objective C](http://en.wikipedia.org/wiki/Objective_c) and Python.
 
-My screen name is inspired from the app "Composer 669" from [Renaissance](http://en.m.wikipedia.org/wiki/Renaissance_(demoscene)). I was a little bit of a tracker geek. This demo group's code also helped me enter protected mode without DOS or other crutches.
+The "669" in my screen name is inspired from the app "Composer 669" from [Renaissance](http://en.m.wikipedia.org/wiki/Renaissance_(demoscene)). I was a little bit of a tracker geek. This demo group's code also helped me enter protected mode without DOS or other crutches.
 
 I both publicly and anonymously contribute to open source projects. I release software under pseudonyms. I work for large well known companies. I have hobbies.
