@@ -15,6 +15,7 @@ In combination with PHP's [SPL](http://php.net/manual/en/book.spl.php), you can 
 
 {% highlight php %}
 <?php
+// vim: set ts=4 sw=4 noet:
 assert(extension_loaded('xrange'));
 
 // display all odd numbers 1 .. 20
