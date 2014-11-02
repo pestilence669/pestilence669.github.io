@@ -5,7 +5,7 @@ date:   2014-07-25 18:19:00
 categories: PHP PECL Opensource
 ---
 
-A few years ago, after being bewildered by infinite loop problems and convoluted paging algorithms, I wondered why the PHP community hadn't adopted iterator based looping and sunset the three statement for loop like Python.
+A few years ago, after being bewildered by infinite loop problems and convoluted paging algorithms, I wondered why the PHP community hadn't adopted iterator based looping and sunset the three-statement for-loop like Python.
 
 Some of the resistance I encountered were arguments regarding memory efficency & performance using the range() function. These were the days where PHP lacked generators and yield statements.
 
