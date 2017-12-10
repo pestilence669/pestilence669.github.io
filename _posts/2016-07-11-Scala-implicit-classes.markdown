@@ -13,7 +13,7 @@ the explicit syntax, to more easily explain the "magic" to someone.
 
 In a nutshell:
 
-```scala
+{% highlight scala %}
 import scala.language.postfixOps
 
 object Factorial {
@@ -27,5 +27,5 @@ object Factorial {
   def factorial2(n: Int) = IntDecorator(n).!  // explicit
 
 }
-```
+{% endhighlight %}
 
